@@ -1,7 +1,8 @@
-name: firestore_employees
-description: Experiment 7 - 24CS2016 Building Applications using Flutter
-publish_to: 'none'
-version: 1.0.0+1
+name: exp7
+description: Flutter experiment 7 - an employee management app backed by Cloud Firestore.
+version: 1.0.0
+homepage: https://github.com/Amal-0807/exp7_firestore_employees
+repository: https://github.com/Amal-0807/exp7_firestore_employees
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
